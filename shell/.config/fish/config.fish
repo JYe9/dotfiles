@@ -1,5 +1,8 @@
 # ~/.config/fish/config.fish
 
+# === Greeting ===
+set fish_greeting
+
 # === Homebrew ===
 # NOTE: /opt/homebrew is ARM64 Mac specific. Intel Macs use /usr/local.
 /opt/homebrew/bin/brew shellenv | source
