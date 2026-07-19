@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# fish
+.config/fish/fish_history
+.config/fish/fish_variables
+
+# Neovim
+.config/nvim/lazy-lock.json
+.config/nvim/spell/
+.config/nvim/undo/
+
+# tmux
+.tmux/resurrect/
